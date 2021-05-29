@@ -85,17 +85,17 @@
 <form class="d-flex justify-content-center input-group w-auto " align="center">
 
 
-<a class="btn btn-primary" style="background-color: #ac2bac;" href="#!" role="button">
+<a class="btn btn-primary" style="background-color: #ac2bac;" href="https://www.instagram.com/alejandromatos.jpg/" role="button">
 <i class="fab fa-instagram"></i></a>
 
-<a class="btn btn-primary" style="background-color: #0082ca;" href="#!" role="button">
+<a class="btn btn-primary" style="background-color: #0082ca;" href="https://www.linkedin.com/in/alejandromatos13/" role="button">
 <i class="fab fa-linkedin-in"></i></a>
 
-<a class="btn btn-primary" style="background-color: #333333;" href="#!" role="button"
+<a class="btn btn-primary" style="background-color: #333333;" href="https://github.com/alejandrom13" role="button"
 ><i class="fab fa-github"></i
 ></a>
 
-<a class="btn btn-primary" style="background-color: #ec4a89;" href="#!" role="button"
+<a class="btn btn-primary" style="background-color: #ec4a89;" href="https://dribbble.com/alejandrom13" role="button"
 ><i class="fab fa-dribbble"></i
 ></a>
 
