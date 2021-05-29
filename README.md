@@ -18,11 +18,11 @@ for the design and Google Sheets as DB to retrieve data</p>
 <p>If you want to replace the Google Sheets it's pretty simple!. <br>
 Create a new Google Sheet, take in count the columns (Symbol, Name of element, Atomic weight, img url, things in the life related with the element, *hex color, this one is not mandatory to add but it's cool to change colors of cards by adding a hex color*).<strong> With the new GSheet created and data follow the next steps: </strong></p>
 
-<h5>1. Go to File</h5>
+<h4>1. Go to File</h4>
 <img src="img/gsheet/1.png" />
-<h5>2. Publish in the web</h5>
+<h4>2. Publish in the web</h4>
 <img src="img/gsheet/2.png" />
-<h5>3. Select a sheet and it's mandatory to select the comma separated values .csv file</h5>
+<h4>3. Select a sheet and it's mandatory to select the comma separated values .csv file</h4>
 <img src="img/gsheet/3.png" />
 
 <p>Google sheets will return a link underneath the dropdown lists which is important to copy and paste in the <code>data.php</code> file in line 3.</p>
