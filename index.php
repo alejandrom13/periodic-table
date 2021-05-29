@@ -96,7 +96,7 @@
             echo '
                 <a href="details.php?Symbol='. $data[0] .'" class="zoom">
                 <div class="col"> 
-                <div class="card h-100" style="background-color: '. $data[5] .'">
+                <div class="card h-100" style="background-color: ">
                     <img
                     src="'. $data[3] .'"
                     class="ripple card-img-top"
