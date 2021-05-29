@@ -26,13 +26,7 @@ Create a new Google Sheet, take in count the columns (Symbol, Name of element, A
 <img src="img/gsheet/3.png" />
 
 <p>Google sheets will return a link underneath the dropdown lists which is important to copy and paste in the <code>data.php</code> file in line 3.</p>
-<p><code>
-<?php
-function getData(){
-    $csv = array_map('str_getcsv', file('HERE IS WHERE YOU MUST PLACE THE LINK PROVIDED BY GSHEETS'));
-    return $csv;
-}
-?>
+<p><code>$csv = array_map('str_getcsv', file('HERE IS WHERE YOU MUST PLACE THE LINK PROVIDED BY GSHEETS'));
 </code></p>
 <p>It takes some seconds to work but after that you're supposed to see all of your own data in the project.</p>
 
