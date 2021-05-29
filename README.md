@@ -14,7 +14,7 @@ for the design and Google Sheets as DB to retrieve data</p>
 <p>In XAMPP you need to start a server with apache module and open the folder of the project, and it's done!.<p>
 
 <h3>How to add a new Google Sheets?</h3>
-<img src="img/gsheets.png"/>
+<img src="img/gsheets.PNG"/>
 <p>If you want to replace the Google Sheets it's pretty simple!. <br>
 Create a new Google Sheet, take in count the columns (Symbol, Name of element, Atomic weight, img url, things in the life related with the element, *hex color, this one is not mandatory to add but it's cool to change colors of cards by adding a hex color*).<strong> With the new GSheet created and data follow the next steps: </strong></p>
 
